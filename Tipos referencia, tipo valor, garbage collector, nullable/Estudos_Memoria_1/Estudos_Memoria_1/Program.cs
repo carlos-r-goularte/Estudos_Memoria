@@ -2,7 +2,7 @@
 
 namespace Estudos_Memoria_1
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
@@ -10,6 +10,7 @@ namespace Estudos_Memoria_1
             p1 = new Product("TV",1000);
             p2 = new Product("Radio",500);
 
+            
             Console.WriteLine(p1);
             Console.WriteLine(p2);
 

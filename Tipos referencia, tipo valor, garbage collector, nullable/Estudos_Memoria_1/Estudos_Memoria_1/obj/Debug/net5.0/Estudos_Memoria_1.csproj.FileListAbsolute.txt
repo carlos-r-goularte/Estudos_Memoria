@@ -3,3 +3,14 @@ C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referenc
 C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.AssemblyInfoInputs.cache
 C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.AssemblyInfo.cs
 C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.csproj.CoreCompileInputs.cache
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\bin\Debug\net5.0\Estudos_Memoria_1.exe
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\bin\Debug\net5.0\Estudos_Memoria_1.deps.json
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\bin\Debug\net5.0\Estudos_Memoria_1.runtimeconfig.json
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\bin\Debug\net5.0\Estudos_Memoria_1.runtimeconfig.dev.json
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\bin\Debug\net5.0\Estudos_Memoria_1.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\bin\Debug\net5.0\ref\Estudos_Memoria_1.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\bin\Debug\net5.0\Estudos_Memoria_1.pdb
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\ref\Estudos_Memoria_1.dll
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.pdb
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.genruntimeconfig.cache

@@ -1,14 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Estudos_Memoria_1
 {
-    internal class Product
+    class Product
     {
-        public double X;
-        public double Y; 
+        public string Name;
+        public double Valor;
+
+        public Product(string nome,double valor)
+        {
+            Name = nome;
+            Valor = valor;
+        }
+
+        public override string ToString()
+        {
+            return "(" + Name + " || " + Valor + ")";
+        }
     }
 }
