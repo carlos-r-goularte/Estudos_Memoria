@@ -6,23 +6,13 @@ namespace Estudos_Memoria_1
     {
         static void Main(string[] args)
         {
-            Product p1,p2;
-            p1 = new Product("TV",1000);
-            p2 = new Product("Radio",500);
+            Pontos pontos;
 
-            
-            Console.WriteLine(p1);
-            Console.WriteLine(p2);
+            pontos.X = 10;
+            pontos.Y = 20;
 
-
-
-            p1 = p2;
-
-            Console.WriteLine(p1);
-
-            p2 = null;
-
-            Console.WriteLine(p2);
+            Console.WriteLine(pontos.X);
+            Console.WriteLine(pontos.Y);
         }
     }
 }
