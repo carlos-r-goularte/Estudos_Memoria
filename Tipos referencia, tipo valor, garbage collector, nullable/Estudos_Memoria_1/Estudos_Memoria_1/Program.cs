@@ -14,6 +14,15 @@ namespace Estudos_Memoria_1
             Console.WriteLine(p1);
             Console.WriteLine(p2);
 
+
+
+            p1 = p2;
+
+            Console.WriteLine(p1);
+
+            p2 = null;
+
+            Console.WriteLine(p2);
         }
     }
 }
