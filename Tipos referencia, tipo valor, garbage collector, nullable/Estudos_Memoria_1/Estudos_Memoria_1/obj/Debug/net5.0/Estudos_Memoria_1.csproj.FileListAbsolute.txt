@@ -1,0 +1,5 @@
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.csproj.AssemblyReference.cache
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.AssemblyInfoInputs.cache
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.AssemblyInfo.cs
+C:\Users\carol\Desktop\Estudos\Programação - C#\Estudos_Memoria\Tipos referencia, tipo valor, garbage collector, nullable\Estudos_Memoria_1\Estudos_Memoria_1\obj\Debug\net5.0\Estudos_Memoria_1.csproj.CoreCompileInputs.cache
