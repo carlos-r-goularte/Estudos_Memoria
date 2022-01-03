@@ -6,13 +6,16 @@ namespace Estudos_Memoria_1
     {
         static void Main(string[] args)
         {
-            Pontos pontos;
+            Pontos pontos = new Pontos();
 
             pontos.X = 10;
             pontos.Y = 20;
 
-            Console.WriteLine(pontos.X);
-            Console.WriteLine(pontos.Y);
+            Console.WriteLine(pontos);
+
+            pontos = new Pontos();
+
+            Console.WriteLine(pontos);
         }
     }
 }
