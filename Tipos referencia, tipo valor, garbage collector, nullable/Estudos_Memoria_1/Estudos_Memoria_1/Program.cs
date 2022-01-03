@@ -6,16 +6,31 @@ namespace Estudos_Memoria_1
     {
         static void Main(string[] args)
         {
-            Pontos pontos = new Pontos();
 
-            pontos.X = 10;
-            pontos.Y = 20;
+            Double? teste1 = null;
+            Double? teste2 = 10.0;
 
-            Console.WriteLine(pontos);
+            Console.WriteLine(teste1 + " | " + teste2);
 
-            pontos = new Pontos();
+            Console.WriteLine(teste1.HasValue + " | " + teste2.HasValue);
 
-            Console.WriteLine(pontos);
+            Console.WriteLine(teste1.GetValueOrDefault() + " | " + teste2.GetValueOrDefault());
+
+            if (teste1.HasValue)
+                Console.WriteLine(teste1.Value);
+            else
+                Console.WriteLine("teste1 é null");
+
+            if(teste2.HasValue)
+                Console.WriteLine(teste2.Value);
+            else
+                Console.WriteLine("teste2 é null");
+
+
+            double a = teste1 ?? 5;
+            double b = teste2 ?? 5;
+
+            Console.WriteLine(a + " | " + b);
         }
     }
 }
