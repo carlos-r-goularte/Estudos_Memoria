@@ -52,7 +52,7 @@ namespace Exercicio_Vetores
             {
                 if (rooms[i] != null)
                 {
-                    Console.WriteLine("Quarto: #" + i + " || " + rooms[i]);
+                    Console.WriteLine("Room: #" + i + " || " + rooms[i]);
                 }
             }
         }

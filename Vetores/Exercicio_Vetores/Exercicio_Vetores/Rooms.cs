@@ -16,7 +16,7 @@ namespace Exercicio_Vetores
         public override string ToString()
         {
             return
-                 "Nome: " + Name + " || E-mail: " + Email;
+                 "Name: " + Name + " || E-mail: " + Email;
         }
     }
 }
