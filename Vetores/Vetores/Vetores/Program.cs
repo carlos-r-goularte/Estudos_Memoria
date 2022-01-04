@@ -11,21 +11,22 @@ namespace Vetores
             Console.Write("Digite a quantidade de produtos que serão calculados: ");
             int quantityOfProducts = int.Parse(Console.ReadLine());
 
-            string[] vectorName = new string[quantityOfProducts];
-            double[] vectorValue = new double[quantityOfProducts];
+            Product[] vector = new Product[quantityOfProducts];
 
             for (int i = 0; i < quantityOfProducts; i++)
             {
                 Console.Write("Digite o nome do produto " + (i + 1) + ": ");
-                vectorName[i] = Console.ReadLine();
+                string name = Console.ReadLine();
 
                 Console.Write("Digite o valor do produto " + (i + 1) + ": ");
-                vectorValue[i] = double.Parse(Console.ReadLine());
+                double value = double.Parse(Console.ReadLine());
+
+                vector[i] = new Product(name, value);
             }
 
             for (int i = 0; i < quantityOfProducts; i++)
             {
-                sumVectorValue += vectorValue[i];
+                sumVectorValue += vector[i].Value;
             }
 
             averageVectorValue = sumVectorValue / quantityOfProducts;
