@@ -2,31 +2,35 @@
 
 namespace Vetores
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
+            double sumVectorValue = 0, averageVectorValue;
 
-            int quantidadeDeLeituras = int.Parse(Console.ReadLine());
+            Console.Write("Digite a quantidade de produtos que serão calculados: ");
+            int quantityOfProducts = int.Parse(Console.ReadLine());
 
-            double[] vetor = new double[quantidadeDeLeituras];
+            string[] vectorName = new string[quantityOfProducts];
+            double[] vectorValue = new double[quantityOfProducts];
 
-            for (int i = 0; i < quantidadeDeLeituras; i++)
+            for (int i = 0; i < quantityOfProducts; i++)
             {
-                vetor[i] = double.Parse(Console.ReadLine());
+                Console.Write("Digite o nome do produto " + (i + 1) + ": ");
+                vectorName[i] = Console.ReadLine();
 
+                Console.Write("Digite o valor do produto " + (i + 1) + ": ");
+                vectorValue[i] = double.Parse(Console.ReadLine());
             }
 
-            double alturaSoma = 0.0;
-
-            for (int i = 0; i < quantidadeDeLeituras; i++)
+            for (int i = 0; i < quantityOfProducts; i++)
             {
-                alturaSoma += vetor[i];
+                sumVectorValue += vectorValue[i];
             }
 
-            double alturaMedia = alturaSoma / quantidadeDeLeituras;
+            averageVectorValue = sumVectorValue / quantityOfProducts;
+            Console.WriteLine("A média do valor dos produtos é: " +  averageVectorValue.ToString("F2"));
 
-            Console.WriteLine("Altura Média: " + alturaMedia.ToString("F2"));
         }
     }
 }
